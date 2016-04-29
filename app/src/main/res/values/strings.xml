@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MobileScala Step 1</string>
+    <string name="refresh_button_test">Refresh</string>
 </resources>
